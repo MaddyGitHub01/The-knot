@@ -690,8 +690,8 @@ footer .socials-a {
   opacity: 0;
   filter: drop-shadow(0 2px 2px #555);
   will-change: transform, opacity;
-  -webkit-animation: carousel-animate-vertical 27s linear infinite;
-          animation: carousel-animate-vertical 27s linear infinite;
+  -webkit-animation: carousel-animate-vertical 20s linear infinite;
+          animation: carousel-animate-vertical 20s linear infinite;
 }
 
 .carousel__item:nth-child(1) {
@@ -735,8 +735,8 @@ footer .socials-a {
 }
 
 .carousel__item:last-child {
-  -webkit-animation-delay: calc(-3s * 2);
-          animation-delay: calc(-3s * 2);
+  -webkit-animation-delay: calc(3s * 7);
+          animation-delay: calc(3s * 7);
 }
 
 .carousel__item-head {
