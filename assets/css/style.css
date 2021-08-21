@@ -605,6 +605,10 @@ background-size: cover;
   .grid {
     height: auto;
 }
+  .item .caption label {
+    font-size: 15px;
+    letter-spacing: normal;
+}
 }
 
 /*--------------------------------------------------------------
