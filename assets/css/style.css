@@ -602,6 +602,9 @@ background-size: cover;
    .side-bg .inner-padding {
     padding: 45px 15px 45px 15px; 
   }
+  .grid {
+    height: auto;
+}
 }
 
 /*--------------------------------------------------------------
@@ -834,4 +837,5 @@ footer .socials-a {
   background: #000;
   color: #fff;
 }
+
 
