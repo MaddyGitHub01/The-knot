@@ -402,6 +402,7 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1680px;
   position: relative;
   margin: 0 auto;
+  margin-top:15px;
 }
 
 section {
@@ -474,7 +475,7 @@ Grid
 
 .grid {
     display: grid;
-    height: auto;
+    height: 854px;
     grid-template-columns: repeat(8,1fr);
     grid-auto-rows: minmax(100px, auto);
     grid-gap: 8px;
