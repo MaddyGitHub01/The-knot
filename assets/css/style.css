@@ -807,6 +807,12 @@ footer .socials-a {
     opacity: 0;
     visibility: hidden;
   }
+  0% {
+    transform: translateX(-100%) scale(0.5);
+    opacity: 0;
+    visibility: hidden;
+
+  }
 }
 
 /*---- Add To Cart -----*/
